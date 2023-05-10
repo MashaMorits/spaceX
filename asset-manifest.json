@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/spaceX/static/css/main.0adba3aa.css",
+    "main.js": "/spaceX/static/js/main.f11fadbb.js",
+    "static/media/main_bg.png": "/spaceX/static/media/main_bg.d34b045fba9c8c550801.png",
+    "static/media/MuseoSansCyrl-900Italic.eot": "/spaceX/static/media/MuseoSansCyrl-900Italic.501e358b082b6f166838.eot",
+    "static/media/MuseoSansCyrl-900Italic.ttf": "/spaceX/static/media/MuseoSansCyrl-900Italic.fcfb8b1f60302e60f060.ttf",
+    "static/media/MuseoSansCyrl-300.eot": "/spaceX/static/media/MuseoSansCyrl-300.14fba0121ce2d79a57f3.eot",
+    "static/media/MuseoSansCyrl-500.eot": "/spaceX/static/media/MuseoSansCyrl-500.f602729c35ef07caf575.eot",
+    "static/media/MuseoSansCyrl-300.ttf": "/spaceX/static/media/MuseoSansCyrl-300.b89d2aed072b957f2e03.ttf",
+    "static/media/MuseoSansCyrl-100.eot": "/spaceX/static/media/MuseoSansCyrl-100.78aa184b47a519bd5457.eot",
+    "static/media/MuseoSansCyrl-500.ttf": "/spaceX/static/media/MuseoSansCyrl-500.4a7ab6cebbb2ceac67d4.ttf",
+    "static/media/MuseoSansCyrl-100.ttf": "/spaceX/static/media/MuseoSansCyrl-100.5363469df315b5a16118.ttf",
+    "static/media/MuseoSansCyrl-700.eot": "/spaceX/static/media/MuseoSansCyrl-700.c2281bff40e9f06884d7.eot",
+    "static/media/MuseoSansCyrl-700.ttf": "/spaceX/static/media/MuseoSansCyrl-700.d517f62e41d9a4dab324.ttf",
+    "static/media/MuseoSansCyrl-900.eot": "/spaceX/static/media/MuseoSansCyrl-900.58539594d0e0a80f832b.eot",
+    "static/media/MuseoSansCyrl-900.ttf": "/spaceX/static/media/MuseoSansCyrl-900.35603e4bbd4c518b33c9.ttf",
+    "static/media/MuseoSansCyrl-900Italic.woff": "/spaceX/static/media/MuseoSansCyrl-900Italic.4dc9a6635a4087609ed4.woff",
+    "static/media/MuseoSansCyrl-500.woff": "/spaceX/static/media/MuseoSansCyrl-500.8cd656174445150d19cc.woff",
+    "static/media/MuseoSansCyrl-700.woff": "/spaceX/static/media/MuseoSansCyrl-700.0d5cb4ec8ac2a9f30484.woff",
+    "static/media/MuseoSansCyrl-300.woff": "/spaceX/static/media/MuseoSansCyrl-300.397ed770be641d6e6bf1.woff",
+    "static/media/MuseoSansCyrl-100.woff": "/spaceX/static/media/MuseoSansCyrl-100.efad55315c7c40093e36.woff",
+    "static/media/MuseoSansCyrl-900.woff": "/spaceX/static/media/MuseoSansCyrl-900.c004bd026764eaf21c5f.woff",
+    "index.html": "/spaceX/index.html",
+    "main.0adba3aa.css.map": "/spaceX/static/css/main.0adba3aa.css.map",
+    "main.f11fadbb.js.map": "/spaceX/static/js/main.f11fadbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0adba3aa.css",
+    "static/js/main.f11fadbb.js"
+  ]
+}
