@@ -21,6 +21,9 @@ function HomePage() {
                             <img className='rocketLine' src={rocketLine} alt="" />  
                            
                         </div>
+                        <div className="mars">
+
+                        </div>
                         <div className="first__screen-right">
                             <div className="benefit">
                                 <div className="benefit__item">
@@ -35,7 +38,7 @@ function HomePage() {
                                 </div>
                                 <div className="benefit__item">
                                     <p>календарик за</p>
-                                    <span>2001г.</span>
+                                    <span>2001<b>г.</b></span>
                                     <p>в подарок</p>
                                 </div>
                                 <div className="benefit__item">
