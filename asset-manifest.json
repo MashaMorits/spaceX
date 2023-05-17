@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spaceX/static/css/main.0adba3aa.css",
-    "main.js": "/spaceX/static/js/main.f11fadbb.js",
+    "main.css": "/spaceX/static/css/main.0700cbc4.css",
+    "main.js": "/spaceX/static/js/main.a8bfc705.js",
     "static/media/main_bg.png": "/spaceX/static/media/main_bg.d34b045fba9c8c550801.png",
     "static/media/MuseoSansCyrl-900Italic.eot": "/spaceX/static/media/MuseoSansCyrl-900Italic.501e358b082b6f166838.eot",
     "static/media/MuseoSansCyrl-900Italic.ttf": "/spaceX/static/media/MuseoSansCyrl-900Italic.fcfb8b1f60302e60f060.ttf",
@@ -22,11 +22,11 @@
     "static/media/MuseoSansCyrl-100.woff": "/spaceX/static/media/MuseoSansCyrl-100.efad55315c7c40093e36.woff",
     "static/media/MuseoSansCyrl-900.woff": "/spaceX/static/media/MuseoSansCyrl-900.c004bd026764eaf21c5f.woff",
     "index.html": "/spaceX/index.html",
-    "main.0adba3aa.css.map": "/spaceX/static/css/main.0adba3aa.css.map",
-    "main.f11fadbb.js.map": "/spaceX/static/js/main.f11fadbb.js.map"
+    "main.0700cbc4.css.map": "/spaceX/static/css/main.0700cbc4.css.map",
+    "main.a8bfc705.js.map": "/spaceX/static/js/main.a8bfc705.js.map"
   },
   "entrypoints": [
-    "static/css/main.0adba3aa.css",
-    "static/js/main.f11fadbb.js"
+    "static/css/main.0700cbc4.css",
+    "static/js/main.a8bfc705.js"
   ]
 }
